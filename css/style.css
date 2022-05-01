@@ -106,3 +106,10 @@ header, footer {
     margin-left: auto;
     display:block;
 }
+.forteh h5{
+    border: 3px solid var(--color1);
+    padding: 50px;
+}
+.course-plane h2{
+    color: var(--color1);
+}
