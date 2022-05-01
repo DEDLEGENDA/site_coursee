@@ -113,3 +113,6 @@ header, footer {
 .course-plane h2{
     color: var(--color1);
 }
+.course-plane{
+    background-color: #eee;
+}
