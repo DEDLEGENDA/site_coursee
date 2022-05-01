@@ -116,3 +116,7 @@ header, footer {
 .course-plane{
     background-color: #eee;
 }
+.accordion-button:not(.collapsed) {
+    color: var(--bs-white);
+    background-color: var(--color2);
+}
